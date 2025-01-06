@@ -1,1 +1,4 @@
 + 'new': "document (`certificate of deposit; for #93000000.00$USD`).DEBIT",
+---
++ 'new' "document (`payment for purchase; for #1400000.00USD`).DEBIT"
+'TO' "INFO (`FINANCE@MAGELLANJETS.COM`).COMPLETED"
